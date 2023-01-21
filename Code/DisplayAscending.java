@@ -20,9 +20,6 @@ public class DisplayAscending {
 		
 		
 	}
-
-	
-		// TODO Auto-generated method stub
 		
-	}
+}
 
