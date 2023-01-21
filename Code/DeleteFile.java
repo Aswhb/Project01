@@ -21,9 +21,6 @@ public class DeleteFile {
 		System.out.println("file gets deleted");
 		
 	}
-
-	
-		// TODO Auto-generated method stub
 		
-	}
+}
 
